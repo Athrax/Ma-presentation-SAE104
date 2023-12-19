@@ -6,7 +6,7 @@
       <paths name="IUT La Rochelle">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/~aschaeff/SAE1.05" />
+            <mapping deploy="/SAE105" local="$PROJECT_DIR$" web="" />
           </mappings>
         </serverdata>
       </paths>
